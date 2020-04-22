@@ -6,7 +6,7 @@ excerpt: You can download my resume here.
 comments: false
 ---
 
-Vous pouvez retrouver la source LaTeX de mon CV sur [mon repo github][1], ou télécharger le PDF directement ci-dessous, soit [en anglais][1] et/ou [en français][2].
+Vous pouvez retrouver la source LaTeX de mon CV sur [mon repo github][1], ou télécharger le PDF directement ci-dessous, soit [en anglais][2] et/ou [en français][3].
 
 ---
 

@@ -14,5 +14,5 @@ You may find LaTeX source file of my resume in [my github repo][1].
 You can download either the [English][2] or [French][3] version of my resume.
 
 [1]: https://github.com/noxouille/resume
-[2]: https://github.com/noxouille/resume/ferdi-resume-EN-Libertine.pdf
-[3]: https://github.com/noxouille/resume/ferdi-resume-FR-Libertine.pdf
+[2]: https://github.com/noxouille/resume/blob/master/ferdi-resume-EN-Libertine.pdf
+[3]: https://github.com/noxouille/resume/blob/master/ferdi-resume-FR-Libertine.pdf

@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: This page describes briefly about me.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Je suis consultant et scientifique des données, je travaille actuellement dans le domaine de l'intelligence d'affaires.
+J'ai trois ans d'expériences en IA, en deep learning et en robotique.
+Ma passion est de communiquer efficacement des données complexes, à travers la visualisation de données et la narration avec des données.
+Python est mon langage de programmation de choix pour les applications générales.
 
-If you have a question about him or else, just send a letter to him.
+---
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-##### may u needs ✨
-
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+I am a consultant and a data scientist, currently working in a business intelligence domain. 
+I have some experience with AI, vision deep learning, and robotics. 
+My passion is to communicate complex data effectively, through data visualisation and storytelling with data.
+Python is my programming language of choice for general purpose applications.

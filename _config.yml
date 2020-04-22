@@ -21,7 +21,7 @@ author:
 url: "https://ferdi.now.sh"
 baseurl:
 permalink: /:title/
-google_analytics:
+google_analytics: UA-122702860-3
 fb_appid:
 
 # Collection setting

@@ -1,7 +1,7 @@
 ---
 title: My Personal Favorites of Visual Studio Code Extensions
-date: 2020-04-22 06:20:32 -04:00
-modified: 2020-04-22 12:38:52 -04:00
+date: 2020-04-22 06:20:32 -0400
+modified: 2020-04-22 12:38:52 -0400
 tags: [blog, vscode, extensions, favorites]
 description: This is a list of vscode extensions I used on a daily basis.
 ---

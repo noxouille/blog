@@ -50,6 +50,7 @@ There are also the following info below:
 
 ### Most Frequently Visited
 
+- [mekanisk](https://discordapp.com/invite/CSjMxRp)
 - [kbdfans](https://discordapp.com/invite/HMZKDhn)
 - [Smith + Rune](https://discordapp.com/invite/YjU7wRy)
 - [ZealPC](https://discordapp.com/invite/mFSw9JZ)
@@ -63,7 +64,6 @@ There are also the following info below:
 - [Jae prototypist](https://discordapp.com/invite/UvskpBB)
 - [keycult](https://discordapp.com/invite/y8JbbCv)
 - [mechkeys](https://discordapp.com/invite/mechkeys)
-- [mekanisk](https://discordapp.com/invite/CSjMxRp)
 - [summitcables](https://discord.gg/gwtua9M)
 - [switchmod keyboards](https://discord.gg/8TkjXTr)
 - [Taeha types](https://discordapp.com/invite/taehatypes)

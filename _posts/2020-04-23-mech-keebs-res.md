@@ -6,7 +6,7 @@ tags: [blog, custom, mechanical, keyboards, resources]
 description: Contains resources that you can check out if custom mechanical keyboard is your thing.
 ---
 
-Check out the [Dashboard](https://docs.google.com/spreadsheets/d/1sLA2BGQ8QVFs575NVmpuBfA68xKQ8qz7t6XhODlOG-Q/edit?usp=sharing) I made with Google Sheets (for the sake of simplicity and flexibility), containing latest feed, including Group Buy and Interest Check, as well as price range of both custom keyboards and keycaps.
+Check out the [Dashboard](https://public.tableau.com/views/CustomKeyboard/MacBookAirDash?:display_count=y&publish=yes&:origin=viz_share_link) I made with Tableau, containing latest feed, including Group Buy and Interest Check, as well as price range of both custom keyboards and keycaps.
 I manually cherry picked these info from GeekHack, which most of them are dominated by 60%/65%. If you are a fan of small form factor custom keyboards like 60%/65%, you will benefit the most out of my dashboard.
 
 There are also the following info below:

@@ -13,9 +13,9 @@ Python est mon langage de programmation de choix pour les applications général
 Je suis également certifié Azure Data Scientist Associate.
 
 <p align="center">
-  <a href="https://www.youracclaim.com/badges/61a05b69-caa1-477e-b5a9-97d3e98c63d8/public_url"><img alt="Azure Fundamentals" src="/assets/img/azure-fundamentals-150x150.webp"></a>
-  <a href="https://www.youracclaim.com/badges/af1c2390-f0a5-4dbe-8d22-70db22fb9fe8/public_url"><img alt="Azure Data Scientist Associate" src="/assets/img/azure-data-scientist-associate-150x150.webp"></a>
-  <a href="https://www.youracclaim.com/badges/f248fdd4-7ed3-464b-b7cc-4499764af099/public_url"><img alt="Tableau Data Scientist" src="/assets/img/tableau-data-Scientist-150x150.webp"></a>
+  <a href="https://www.youracclaim.com/badges/61a05b69-caa1-477e-b5a9-97d3e98c63d8/public_url"><img alt="Azure Fundamentals" width="100" height="100" src="/assets/img/azure-fundamentals-150x150.webp"></a>
+  <a href="https://www.youracclaim.com/badges/af1c2390-f0a5-4dbe-8d22-70db22fb9fe8/public_url"><img alt="Azure Data Scientist Associate" width="100" height="100" src="/assets/img/azure-data-scientist-associate-150x150.webp"></a>
+  <a href="https://www.youracclaim.com/badges/f248fdd4-7ed3-464b-b7cc-4499764af099/public_url"><img alt="Tableau Data Scientist" width="100" height="100" src="/assets/img/tableau-data-Scientist-150x150.webp"></a>
 </p>
 
 I am a consultant and a data scientist, currently working in a business intelligence domain. 

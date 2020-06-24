@@ -26,6 +26,8 @@ fb_appid:
 
 # Collection setting
 collections:
+  badges:
+    output: true
   posts:
     output: true
 

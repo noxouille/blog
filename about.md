@@ -12,14 +12,10 @@ Ma passion est de communiquer efficacement des données complexes, à travers la
 Python est mon langage de programmation de choix pour les applications générales.
 Je suis également certifié Azure Data Scientist Associate.
 
-<p align="center">
-  <a href="https://www.youracclaim.com/badges/61a05b69-caa1-477e-b5a9-97d3e98c63d8/public_url"><img alt="Azure Fundamentals" width="100" height="100" src="/assets/img/azure-fundamentals-150x150.webp"></a>
-  <a href="https://www.youracclaim.com/badges/af1c2390-f0a5-4dbe-8d22-70db22fb9fe8/public_url"><img alt="Azure Data Scientist Associate" width="100" height="100" src="/assets/img/azure-data-scientist-associate-150x150.webp"></a>
-  <a href="https://www.youracclaim.com/badges/f248fdd4-7ed3-464b-b7cc-4499764af099/public_url"><img alt="Tableau Data Scientist" width="100" height="100" src="/assets/img/tableau-data-Scientist-150x150.webp"></a>
-</p>
+{% include image-gallery.html folder=site.badges %}
 
-I am a consultant and a data scientist, currently working in a business intelligence domain. 
-I have some experience with AI, vision deep learning, and robotics. 
+I am a consultant and a data scientist, currently working in a business intelligence domain.
+I have some experience with AI, vision deep learning, and robotics.
 My passion is to communicate complex data effectively, through data visualisation and storytelling with data.
 Python is my programming language of choice for general purpose applications.
 I am also a certified Azure Data Scientist Associate.

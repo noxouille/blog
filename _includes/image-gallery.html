@@ -1,0 +1,8 @@
+{% assign sorted_image = include.folder | sort: "weight" %}
+<ul class="image-gallery" align="center">
+    {% for image in sorted_image %}
+        <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" width="{{ image.width }}" height="{{ image.height }}" alt="{{ image.title }}" title="{{ filename }}" />
+        </a>
+    {% endfor %}
+</ul>

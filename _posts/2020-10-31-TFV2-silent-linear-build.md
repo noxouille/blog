@@ -1,7 +1,7 @@
 ---
 title: TFV2 Custom Mechanical Keyboard - Silent Linear Build
-date: 2020-10-25 21:40:23 -0400
-modified: 2020-10-25 21:40:23 -0400
+date: 2020-10-31 22:37:02 -0400
+modified: 2020-10-31 22:37:02 -0400
 tags: [blog, custom, mechanical, keyboards, kbdfans, tfv2, linear, hotswap]
 description: Contains the procedure of assembling of my first ever custom keyboard build.
 ---

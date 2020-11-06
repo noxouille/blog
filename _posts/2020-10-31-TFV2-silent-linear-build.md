@@ -41,7 +41,7 @@ The E-White Alu case is so underrated, which I think will be versatile when matc
 {% include image.html url="/assets/img/TFV2/4.webp" description="Cool brass weight" %}
 {% include image.html url="/assets/img/TFV2/5.webp" description="Brass plate for top-mount TFV2" %}
 {% include image.html url="/assets/img/TFV2/6.webp" description="Lubed Zeal stabs and Band-Aid mods" %}
-{% include image.html url="/assets/img/TFV2/7.webp" description="PCB are functioning well. Next, stabs installation." %}
+{% include image.html url="/assets/img/TFV2/7.webp" description="PCB is functioning well. Next, stabs installation." %}
 {% include image.html url="/assets/img/TFV2/8.webp" description="Lubed switches, Sakurios (left) for the mod switches, Roselios (right) for the rest." %}
 
 This is my first time ever with custom keyboards, and I think I made a great choice with the switches!

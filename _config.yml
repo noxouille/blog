@@ -56,7 +56,11 @@ jekyll_compose:
     tags: []
     description:
 
+# Homepage limit posts
+number_of_posts: 5
+
 # Build settings
+# theme: klise
 sass:
   style: compressed
 
@@ -73,10 +77,11 @@ exclude:
   - README.md
   - node_modules
   - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
 
 # Plugins
 plugins:
   - jekyll-feed
-  - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles

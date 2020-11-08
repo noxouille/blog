@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Ferdi Pratama
   bio: >-
-    Je suis scientifique des données, passionné par une communication efficace avec les données. I am a data scientist, passionate in effective communication with data.
+    Azure Cloud Developer @CGI
   username: noxouille
   email: ferdi.pratama.phd@outlook.com
   avatar: /assets/img/avatar.webp
@@ -85,3 +85,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+
+incremental: true

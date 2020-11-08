@@ -6,16 +6,41 @@ excerpt: This page describes briefly about me.
 comments: false
 ---
 
-Je suis consultant et scientifique des données, je travaille actuellement dans le domaine de l'intelligence d'affaires.
-J'ai trois ans d'expériences en IA, en deep learning et en robotique.
-Ma passion est de communiquer efficacement des données complexes, à travers la visualisation de données et la narration avec des données.
-Python est mon langage de programmation de choix pour les applications générales.
-Je suis également certifié Azure Data Scientist Associate.
-
-{% include image-gallery.html folder=site.badges %}
-
-I am a consultant and a data scientist, currently working in a business intelligence domain.
-I have some experience with AI, vision deep learning, and robotics.
-My passion is to communicate complex data effectively, through data visualisation and storytelling with data.
-Python is my programming language of choice for general purpose applications.
-I am also a certified Azure Data Scientist Associate.
+```javascript
+const ferdi = {
+  role: consultant,
+  pronouns: "he" | "his",
+  experience: [
+    "infrastructure as code",
+    "etl development",
+    "data science",
+    "vision deep learning",
+    "robotics architecture",
+  ],
+  passion: [
+    "custom mechanical keyboards",
+    "storytelling with data",
+    "data visualisation"
+  ],
+  stack: [
+    azure_devops,
+    terraform,
+    databricks,
+    azure_ml,
+    docker,
+    kubernetes,
+  ],
+  code: [
+    bash,
+    powershell,
+    python,
+    scala,
+    latex,
+  ],
+  certification: [
+    "azure fundamentals",
+    "azure data scientist",
+    "databricks core training",
+  ],
+};
+```

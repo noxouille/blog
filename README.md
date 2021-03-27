@@ -44,6 +44,13 @@ Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise)
 
+## Note
+
+For Windows, `jekyll --version` will not work as it requires dependency `terminal-table 1.8.0`, when you have a more recent version installed.
+To check version, simply run `bundle exec jekyll --version`, which normally shows `jekyll 4.1.1` being used for the blog.
+
+To test locally, run the `bundle exec jekyll serve` as mentioned above.
+
 ## Limitation
 
 - Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com) or [surge.sh](https://surge.sh) services, which support 3rd party.

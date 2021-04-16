@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/noxouille
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ferdi.vercel.app
+  * I am noxouille (https://keybase.io/noxouille) on keybase.
+  * I have a public key ASCKRTEREWhZSKNpCYSNdd6lddEPCuduiFactf48KR-obgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bb7dda96fcb06fe79fc84f86b7c2c85b711924491ef90c23478e0466ca1475ff0a",
+      "host": "keybase.io",
+      "kid": "01208a45311111685948a36909848d75dea575d10f0ae76e88569cb5fe3c291fa86e0a",
+      "uid": "d4168536f188942476ccacd433ff0c19",
+      "username": "noxouille"
+    },
+    "merkle_root": {
+      "ctime": 1618594097,
+      "hash": "02b8a923ce51bfbe02c1326f3de5e2e4e97904675fca068e7af5e614459d0a5e93adb57708c27702e8571f8991b29b406c327d8c1b11fbd87daa862063f92731",
+      "hash_meta": "f2429bd5e05b637c7b562c739d94f922807b57f4e0122e70e5d352045cd0b556",
+      "seqno": 19652302
+    },
+    "service": {
+      "entropy": "yF2bd9djOLQCiPwVREqrbnKr",
+      "hostname": "ferdi.vercel.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1618594126,
+  "expire_in": 504576000,
+  "prev": "18ce9cc9a01675caa8eb9ac8893bc41962c58aacd3ee4bc36740601648c1bd76",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgikUxERFoWUijaQmEjXXepXXRDwrnbohWnLX+PCkfqG4Kp3BheWxvYWTESpcCCsQgGM6cyaAWdcqo65rIiTvEGWLFiqzT7kvDZ0BgFkjBvXbEIG0qgRHBNU6DHFersEFgZz2OxvFZsJLGuZw4lluuQocpAgHCo3NpZ8RAHGd7tltfIOH1fqc46smThwrSShuuIaInJEhIy5W8KxjqgYVxhMFg6xhbXuDeJ3vZP4szyhABgfcptv+vB2niCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPfboLd4XfvpSQKjjZPVZy7f91+cfAKlx0rNPTl5Levso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/noxouille
+
+==================================================================

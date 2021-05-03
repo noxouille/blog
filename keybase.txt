@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/noxouille
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ferdi.vercel.app
+  * I am noxouille (https://keybase.io/noxouille) on keybase.
+  * I have a public key with fingerprint 5F1C BAC7 F929 B963 D3CB  05F2 22B2 2191 F25F 3581
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bb7dda96fcb06fe79fc84f86b7c2c85b711924491ef90c23478e0466ca1475ff0a",
+      "fingerprint": "5f1cbac7f929b963d3cb05f222b22191f25f3581",
+      "host": "keybase.io",
+      "key_id": "22b22191f25f3581",
+      "kid": "0101de5431ca974d69e83d94e384279afe2e025d16e1eb6e7d7a15775211cfa37f420a",
+      "uid": "d4168536f188942476ccacd433ff0c19",
+      "username": "noxouille"
+    },
+    "service": {
+      "hostname": "ferdi.vercel.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1618594988,
+  "expire_in": 157680000,
+  "prev": "1243dca4a95a6d8f73a0cedbcf7e4707b3c65c8aa9ee76f1648c5b39d59379b3",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN2AnicbZJ7UFRVAMYXFXRxINcHk4JT3ikehdt9nPs424MhRHBGjakRtGFnvY9z
+lwvL3dvdC4K4PIx4qCPqlGWjSeyYQE7joGGClJQpjwoRHYJCximyIpIxGl8U3WX0
+v84/Z8453/c733fmXIiYawkPwVpW7b/toitCejuPFFi2Fn9zogQTvFIx5ijB8tDs
+hDwS8hmuPEXCHBhOkLggsJLEQ0YWBZyREQtlkQMyxwisSIocLbAEAUkAIIFkiIsk
+BVgO4YBhRJ4ALC3LOI8lYrKiupGu6YpqmFhaJkSBF1kZklCADCVRJpuWSZIUSJKA
+hEzSMkVzhGnM8fqCDjOcwPuQXfGae+bCNRvvf/SPcuOEhGhAESIPWSAxEHGUBAGi
+OECykJcRiXCSlggGEUhgECuxPEGzLE0ShCjzFCsDcjZ3wSxOAgTD0RQjExwHAQlY
+RhR5UQIUZdYTCRgU+pCu8vnIVKveIm+B4vEgzJ+ImduFioiCLxus8lAiI11S7IVI
+F5HHzmuaCdB0r+EVvR7zNMcwNJ8j6DaKtaB8GxJcD0EuQVEl8zFNh2n3KV4VcxCm
+UjSUIJlgCI6GAHJcIoaKNEVHLiWooFmGw80RvAcVmkiCBJQk8oCHNM9InMxSPC4i
+SRBlFgEWZwVKZGiR43mIEGsWZwAn0gIFJRpSLBQoLFjtDdVrsoGZk3ebTJ/iVnmj
+QDeLf9mZPc8SEm4JC50T/GWWcOuiR3/P27bIUpH684qzKC3BWBuYbz/3gv7jneu/
+nbc07xu0RR5ekLYuMHi1qi6p0Xp0Sb3Nvfm5yI7j+leLs0ozhwPaT21V68ePWA1P
+Yk9+7OpD5ZvAqmoYPloSvdZvWR7TcI/JHyBHM95e6rhy/GAbmkqYP7Wst388W45V
+DzQ1q2TdxQ+e2XEs83QgvZZW0YPKNVZ7RO+MfXxlndqQVhLzSeWT07bLd0P+3PJY
+38mxrgjV+Z2n/+O5a3LX3zqllcWH3Zm5OdmVvTrV1jKoZZzLYPj3bf3Ve9p9zeXD
+r4DH01Njr3a3LNnZ2jjWlIRfk0sju2NHnh6bdyv098hsYcPGLvfZ3PawsBT47o4F
+pbVZkZ74T8c3N0QHpjvea3WUbfsrf3+a/HwNXau9OpBUdhelfHgTVHDO3sZn79e0
+H422/vDR0gsnQrsXrpjoyHXk/AqE5L0NI1GZu9hKT3yg04jcOTCdcf3f278MrYs4
+dDH+YO+Mn7F8HfXFZ83uiQ3nh5vytuyL64mfCjmz60DtUPXwgOufGOLByBys3Xmp
+xZZw2Pnyblv39smwqOVNb2WeySu6fO3vGv3Y9nea+Lh76fZve/Q4x+utpy7hXS/V
+P/Xi0JtDCzeWT5y+8r0x2l7V/xr5uZ8L37MswjHSl+l35ty4n5Vfv/vkH9XJ/aO4
+c2Xy8GJr66Tk10af6Nq6KaVPvvEfddy+ww==
+=kKsj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/noxouille
+
+==================================================================

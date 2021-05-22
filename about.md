@@ -17,26 +17,9 @@ const ferdi = {
     "vision deep learning",
     "robotics architecture",
   ],
-  passion: [
-    "custom mechanical keyboards",
-    "storytelling with data",
-    "data visualisation"
-  ],
-  stack: [
-    azure_devops,
-    terraform,
-    databricks,
-    azure_ml,
-    docker,
-    kubernetes,
-  ],
-  code: [
-    bash,
-    powershell,
-    python,
-    scala,
-    latex,
-  ],
+  passion: ["cardistry", "custom mechanical keyboards"],
+  stack: [azure_devops, terraform, databricks, azure_ml, docker, kubernetes],
+  code: [bash, powershell, python, scala, latex],
   certification: [
     "azure fundamentals",
     "azure data scientist",

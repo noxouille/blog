@@ -50,6 +50,7 @@ For Windows, `jekyll --version` will not work as it requires dependency `termina
 To check version, simply run `bundle exec jekyll --version`, which normally shows `jekyll 4.1.1` being used for the blog.
 
 To test locally, run the `bundle exec jekyll serve` as mentioned above.
+To clear the cache, run `bundle exec jekyll clean`.
 
 ## Limitation
 

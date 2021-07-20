@@ -5,14 +5,14 @@ description: >-
 lang: fr-CA
 timezone: Canada/Eastern
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/noxouille/blog 
+repo: https://github.com/noxouille/blog
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Ferdi Pratama
   bio: >-
-    Azure Cloud Developer @CGI
+    Data Science & Machine Learning Architect @CGI
   username: noxouille
   email: ferdi.pratama.phd@outlook.com
   avatar: /assets/img/avatar.webp

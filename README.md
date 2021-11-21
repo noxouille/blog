@@ -44,6 +44,18 @@ Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise)
 
+### Docker local testing
+
+- Make sure Docker Desktop is up and running
+- Tested working with jekyll 4.2.0
+
+```bash
+docker compose up
+# go to localhost:4000 or 127.0.0.1:4000, test the code.
+# after done with local testing, run
+docker compose down
+```
+
 ## Note
 
 For Windows, `jekyll --version` will not work as it requires dependency `terminal-table 1.8.0`, when you have a more recent version installed.

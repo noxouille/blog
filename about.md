@@ -8,7 +8,7 @@ comments: false
 
 ```javascript
 const ferdi = {
-  role: consultant,
+  role: "aspiring data leader", "DSML architect", "Databricks Champion Solutions Architect",
   pronouns: "he" | "his",
   experience: [
     "infrastructure as code",
@@ -17,7 +17,7 @@ const ferdi = {
     "vision deep learning",
     "robotics architecture",
   ],
-  passion: ["cardistry", "custom mechanical keyboards"],
+  passion: ["books", "card magic", "cardistry"],
   stack: [azure_devops, terraform, databricks, azure_ml, docker, kubernetes],
   code: [bash, powershell, python, scala, latex],
   certification: [

@@ -1,0 +1,10 @@
+{
+  "name": "ferdi-blog",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "build": "bundle install && bundle exec jekyll build"
+  }
+}

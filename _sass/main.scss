@@ -61,3 +61,21 @@ $on-widescreen: 1152px;
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",
   "klise/miscellaneous", "klise/syntax", "klise/dark";
+
+// In your main .scss file
+.chat-fab {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9999;
+  padding: 16px 20px;
+  background: #0050b3;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: background 0.2s;
+  &:hover { background: #007fff; }
+}

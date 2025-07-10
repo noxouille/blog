@@ -34,5 +34,132 @@ layout: compress
     </main>
     {% include footer.html %}
   </div>
+<!-- Chat Widget Button and Popup (Theme-aware) -->
+<style>
+  /* Widget variables for both themes */
+  :root {
+    --chat-fab-bg: #0050b3;
+    --chat-fab-color: #fff;
+    --chat-fab-bg-hover: #007fff;
+    --chat-popup-bg: #fff;
+    --chat-popup-border: #202d3b;
+    --chat-popup-shadow: 0 4px 32px rgba(0,0,0,0.14);
+    --chat-close-color: #333;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --chat-fab-bg: #0c213a;
+      --chat-fab-color: #fff;
+      --chat-fab-bg-hover: #1e90ff;
+      --chat-popup-bg: #101622;
+      --chat-popup-border: #333a4d;
+      --chat-popup-shadow: 0 4px 32px rgba(10,20,40,0.22);
+      --chat-close-color: #eee;
+    }
+  }
+  
+  #open-chat-widget {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9999;
+    padding: 0;
+    width: 56px;
+    height: 56px;
+    background: var(--chat-fab-bg);
+    color: var(--chat-fab-color);
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: background 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #open-chat-widget:hover {
+    background: var(--chat-fab-bg-hover);
+  }
+  
+  /* Popup box */
+  #chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 88px;
+    right: 24px;
+    width: 370px;
+    height: 520px;
+    z-index: 10000;
+    background: var(--chat-popup-bg);
+    border-radius: 18px;
+    box-shadow: var(--chat-popup-shadow);
+    border: 1.5px solid var(--chat-popup-border);
+    overflow: hidden;
+    animation: fadeInUp 0.25s;
+  }
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(40px);}
+    to   { opacity: 1; transform: translateY(0);}
+  }
+  #chat-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: transparent;
+    border-radius: 18px;
+  }
+  
+  #close-chat-widget {
+    position: absolute;
+    top: 8px;
+    right: 14px;
+    background: transparent;
+    border: none;
+    font-size: 22px;
+    color: var(--chat-close-color);
+    cursor: pointer;
+    z-index: 10001;
+    padding: 0 4px;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+  }
+  #close-chat-widget:hover {
+    opacity: 1;
+  }
+  </style>
+  
+  <button id="open-chat-widget" aria-label="Open chat">
+    <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+  </button>
+  
+  <div id="chat-popup">
+    <iframe
+      id="chat-iframe"
+      src="https://noxouille-virtual-resume.hf.space"
+      allow="clipboard-write"
+      title="Chat Widget"
+      aria-label="Chat Widget"
+    ></iframe>
+    <button id="close-chat-widget" aria-label="Close chat">✕</button>
+  </div>
+  
+  <script>
+  const chatBtn = document.getElementById('open-chat-widget');
+  const chatPopup = document.getElementById('chat-popup');
+  const chatClose = document.getElementById('close-chat-widget');
+  
+  chatBtn.onclick = function() {
+    chatPopup.style.display = 'block';
+  };
+  chatClose.onclick = function() {
+    chatPopup.style.display = 'none';
+  };
+  // Optional: Hide on ESC key
+  window.addEventListener('keydown', function(e){
+    if (e.key === "Escape") chatPopup.style.display = 'none';
+  });
+  </script>
 </body>
 </html>
